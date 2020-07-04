@@ -7,4 +7,3 @@
 - [IntegerArray.txt](IntegerArray.txt): Contains given data for an array.
 
 - [Makefile](Makefile): to compile [array-inversions.C](array-inversions.C).
-- 
